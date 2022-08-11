@@ -9,6 +9,6 @@ What I used:
 <a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>
   
   
-<a href="https://ejs.co/" rel="nofollow"><img src="https://icons-for-free.com/download-icon-EJS-1324888716899338493_256.icns"></a>
+<a href="https://ejs.co/" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9ew0h7w66Rer66EasIYeo23tncThSQmvHlBhK-yRcazVpX-o6iIFgiHySAz60kOU0DA&usqp=CAU"></a>
 </p>
 
