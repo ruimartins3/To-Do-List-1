@@ -1,4 +1,4 @@
-# To-Do-List-1
+# To-Do List
 What I used:
 
 <p align="left">
