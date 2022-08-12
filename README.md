@@ -13,13 +13,12 @@ What I used:
 
 
 
-![e92152a7f531433186ef8e8b3bcfbee4](https://user-images.githubusercontent.com/91401714/184372920-a9aebeef-d513-419b-a729-a3ed0837f8bb.png)
+![4cc8c44d98853ee95c0c17c045e0aaa1](https://user-images.githubusercontent.com/91401714/184385555-2be682a2-8420-40da-9c7b-3b7a06f20875.png)
 Write the item you want to add and click on the + button to add it
-
-![b9b782fa6a4fc647f42a8cc3dbb93ca9](https://user-images.githubusercontent.com/91401714/184372949-9c9b8ee7-74a7-4563-be7d-77a3e1538c99.png)
 ---
-![4edb5de536ca64115f6f3f8a34515e3c](https://user-images.githubusercontent.com/91401714/184373327-f53f1102-7b9d-4806-a443-4a1ae6ac550e.png)
+![03299ee38ba6c5f456b264ba7094bb5e](https://user-images.githubusercontent.com/91401714/184385624-563b1302-052f-4449-bcaa-aa786a0cd9eb.png)
 If you want to delete an item, select the item you want to delete and press -
+---
+![27beb55286faddeef522e02ae1ab865f](https://user-images.githubusercontent.com/91401714/184385733-7b424445-cd53-423e-9b55-18a4663e3441.png)
 
-![9e6d0769ef22d8e89aa20de7bdd81fd5](https://user-images.githubusercontent.com/91401714/184373427-8b62ebe3-02bb-4279-b778-18bf5c5fa99e.png)
 
