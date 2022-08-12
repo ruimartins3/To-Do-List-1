@@ -17,5 +17,6 @@ What I used:
 Click on the + button to add an item
 ![b9b782fa6a4fc647f42a8cc3dbb93ca9](https://user-images.githubusercontent.com/91401714/184372949-9c9b8ee7-74a7-4563-be7d-77a3e1538c99.png)
 ![4edb5de536ca64115f6f3f8a34515e3c](https://user-images.githubusercontent.com/91401714/184373327-f53f1102-7b9d-4806-a443-4a1ae6ac550e.png)
-<p style="color:blue">If you want to delete an item, select the item you want to delete and press -</p>
+<p style="color:blue">If you want to delete an item, select the item you want to delete and press -
 ![9e6d0769ef22d8e89aa20de7bdd81fd5](https://user-images.githubusercontent.com/91401714/184373427-8b62ebe3-02bb-4279-b778-18bf5c5fa99e.png)
+  </p>
