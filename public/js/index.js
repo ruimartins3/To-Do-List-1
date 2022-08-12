@@ -10,7 +10,7 @@ function deleteItem() {
 
   const data = { items: toDelete };
 
-  fetch("http://localhost:3000/deleteItems", {
+  fetch("/deleteItems", {
     method: "POST", // or 'PUT'
     headers: {
       "Content-Type": "application/json",
