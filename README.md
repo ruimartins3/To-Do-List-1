@@ -12,17 +12,9 @@ What I used:
 
 
 
-
-![4cc8c44d98853ee95c0c17c045e0aaa1](https://user-images.githubusercontent.com/91401714/184385555-2be682a2-8420-40da-9c7b-3b7a06f20875.png)
-
+![4cc8c44d98853ee95c0c17c045e0aaa1](https://user-images.githubusercontent.com/91401714/184386571-94994637-3724-4901-bbbb-29cbc1fb4069.png)
 Write the item you want to add and click on the + button to add it
----
-
-![03299ee38ba6c5f456b264ba7094bb5e](https://user-images.githubusercontent.com/91401714/184385624-563b1302-052f-4449-bcaa-aa786a0cd9eb.png)
-
+![27beb55286faddeef522e02ae1ab865f](https://user-images.githubusercontent.com/91401714/184386582-f5506f2f-bff0-4c5b-9cf1-48697cc6ca33.png)
 If you want to delete an item, select the item you want to delete and press -
----
-
-![27beb55286faddeef522e02ae1ab865f](https://user-images.githubusercontent.com/91401714/184385733-7b424445-cd53-423e-9b55-18a4663e3441.png)
-
+![03299ee38ba6c5f456b264ba7094bb5e](https://user-images.githubusercontent.com/91401714/184386598-1134d974-5bb0-4954-bc03-89de34830ea0.png)
 
