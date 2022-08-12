@@ -12,11 +12,12 @@ What I used:
 
 
 
-![4cc8c44d98853ee95c0c17c045e0aaa1](https://user-images.githubusercontent.com/91401714/184386571-94994637-3724-4901-bbbb-29cbc1fb4069.png)
+![4](https://user-images.githubusercontent.com/91401714/184387916-24c04fda-b1e7-40f3-a3c9-754e661c1b19.png)
 <p>Write the item you want to add and click on the + button to add it</p>
 
-![27beb55286faddeef522e02ae1ab865f](https://user-images.githubusercontent.com/91401714/184386582-f5506f2f-bff0-4c5b-9cf1-48697cc6ca33.png)
+![5](https://user-images.githubusercontent.com/91401714/184387960-a2977030-d8c7-4642-8a46-342b7654a027.png)
 <p>If you want to delete an item, select the item you want to delete and press -</p>
 
-![03299ee38ba6c5f456b264ba7094bb5e](https://user-images.githubusercontent.com/91401714/184386598-1134d974-5bb0-4954-bc03-89de34830ea0.png)
+![6](https://user-images.githubusercontent.com/91401714/184387991-5898d57b-28c2-44ae-9b66-b9c5573cbdcb.png)
+
 
