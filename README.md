@@ -14,7 +14,7 @@ What I used:
 
 
 ![e92152a7f531433186ef8e8b3bcfbee4](https://user-images.githubusercontent.com/91401714/184372920-a9aebeef-d513-419b-a729-a3ed0837f8bb.png)
-Write the item you want to add and click on the + button to add it
+-------------------------------------Write the item you want to add and click on the + button to add it
 
 ![b9b782fa6a4fc647f42a8cc3dbb93ca9](https://user-images.githubusercontent.com/91401714/184372949-9c9b8ee7-74a7-4563-be7d-77a3e1538c99.png)
 ---
