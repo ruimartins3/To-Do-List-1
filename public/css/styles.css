@@ -126,12 +126,12 @@ footer {
 
 .credit {
   text-decoration: none;
-  color: #704d4d;
+  color: #5f4444;
   font-size: 20px;
   position: relative;
   top: 100px;
   }
   
   .credit:hover {
-    color: #d3d3d3;
+    color: #130101;
   }
