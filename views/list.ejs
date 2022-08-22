@@ -18,15 +18,16 @@
                 </div>
                 <% } %>
 
-                    <form class="item" action="/" method="post">
+                   <form class="item" action="/" method="post">
                         <input type="text" name="newTodo" placeholder="New Item" autocomplete="off">
                         <button type="submit" name="listSubmit" value=<%=listTitle %>>+</button>
+                         <div>
+                        <button class type="button" onClick="deleteItem()">-</button>
+                    </div>
                     </form>
 
 
-                    <div>
-                        <button type="button" onClick="deleteItem()">-</button>
-                    </div>
+                   
 
 
         </div>
